@@ -1,4 +1,4 @@
-## (Nombre del proyecto)
+## EVIL PACMAN
 
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
@@ -8,64 +8,44 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** : MI Proyecto(nombre)
+**Titulo** : EVIL PACMAN
 
-**Web:**   (url github.io)
+**Web:**   http://inesphe.github.io
 
-**Autor:**  (Nombre apellidos)
+**Autor:**  Inés Pozo Hernández
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen** : Este proyecto está inspirado en los personajes del Pacman tradicional adaptado a la temática maléfica (el pacman es un demonio). El juego es de control con las flechas de teclado y el objetivo es comerse todos los aros.
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:**  Juego.
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Resolución:** 800x600px tamaño fijo.
 
-(insertar imágenes a resolucion de 100px alto)
+**Probado en:**   Ordenador.
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
-
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
-
-**Tamaño proyecto:** 14MB 
+**Tamaño proyecto:** 42KB
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
+**Fecha** : 14/06/21
 
 **Medios** (donde se tiene presencia relacionada):
 
-- Github:
-- Twitter
-- Instagram
+- Github: inesphe.github.io
 
 
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
 
 # 2. Memoria del proyecto 
 
 ### 2.1 Storyboard: 
-
-
-
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
+En las prácticas 1 y 2 se realizó una introducción de lo que sería el juego.
+En la práctica final se desarrolló el juego como tal. 
 
 
 
 ### 2.2. Esquema de navegación 
 
+La introducción son dos botones a través de los cuales se accede al juego final. 
 
-
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
-
-
-
-
-
-
-
-# 3. Metodología
-
-Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
 
 
 
@@ -80,13 +60,12 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
-
+Desarrolla un juego tradicional con la imagen renovada.
 
 
 **Publico / audiencia**
 
-- Orientado a 
+- Orientado a cualquier persona que quiera jugar.
 
 
 
@@ -94,53 +73,39 @@ Este  proyecto es interesante porque ...
 
 ### Etapa 2: Desarrollo / actividades realizadas
 
-(qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
-
-- Juego. 
-- Video 
-- Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
-- etc.
-
-
+-Introducción: título, nombre, imágenes animadas y dos botones. 
+-Instrucciones: título, texto, botón que dirige al juego.
+-Juego: control de sprites y colisiones. 
 
 ### Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
-
+El programa es antiguo y difícil de utilizar, dando errores en ocasiones que son complicados de localizar.
 
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
-
-
-
-
-
+El programa podría estar más actualizado, pero en general ha sido una buena experiencia y un ejercicio de paciencia. 
 
 
 # 5 Referencias 
 
 **Artículos y blogs ** 
 
-- Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
+https://www.hippani.com/?S=AnimatorHelp
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
-* Tipografía
+* Musica:  Pacman Oirginal Sound CC.
+* Imágenes: creadas por mi.
+* Tipografía: Google fonts 
 
 **Herramientas utilizadas**
 
 - Hippani Animator 5.1
 - 
 
-
-
 (imagen de la licencia, copiar y pegar aquí la correcta)
 
 https://creativecommons.org/licenses/?lang=es
 
-Mayo 2020
+Junio 2021.
