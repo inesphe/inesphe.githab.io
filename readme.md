@@ -40,11 +40,19 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 En las prácticas 1 y 2 se realizó una introducción de lo que sería el juego.
 En la práctica final se desarrolló el juego como tal. 
 
+Finalmente el juego no fue como inicialmente se había planeado por falta de tiempo para aprender los controles necesarios para desarrollarlo, pero este es el Storyboard inicial:
+![STORYBOARD](https://user-images.githubusercontent.com/82672957/122406693-53e24280-cf81-11eb-829a-ae4c684ca812.png)
+
+
 
 
 ### 2.2. Esquema de navegación 
 
 La introducción son dos botones a través de los cuales se accede al juego final. 
+ 
+ El control del personaje (el demonio) se lleva a cabo mediante las teclas de dirección del teclado de esta forma: 
+ ![Ilustración-sin-título](https://user-images.githubusercontent.com/82672957/122408095-6610b080-cf82-11eb-8101-7da28516a3d0.jpg)
+
 
 
 
@@ -53,9 +61,7 @@ La introducción son dos botones a través de los cuales se accede al juego fina
 
 **Investigación de campo** (propuestas inspiradoras para el proyecto)
 
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
-
+La idea surge del juego Pacman original de 1980, aunque la realización final combina la recogida de puntos al comer los aritos con el control del personaje tipo Snake. Por tanto, se podría decir que la inspiración de este juego surge de los videojuegos vintage.
 
 
 **Motivación de la propuesta** 
@@ -65,21 +71,22 @@ Desarrolla un juego tradicional con la imagen renovada.
 
 **Publico / audiencia**
 
-- Orientado a cualquier persona que quiera jugar.
-
-
-
+- Orientado a cualquier persona que quiera jugar (Todos los públicos).
 
 
 ### Etapa 2: Desarrollo / actividades realizadas
 
+Las primeras dos prácticas de la asignatura consistieron en un "teaser" de lo que sería el juego. 
+
+El juego en sí consta de las siguientes partes:
+
 -Introducción: título, nombre, imágenes animadas y dos botones. 
 -Instrucciones: título, texto, botón que dirige al juego.
--Juego: control de sprites y colisiones. 
+-Juego: control de sprites, colisiones y sistema de puntos.
 
 ### Etapa 3: Problemas identificados
 
-El programa es antiguo y difícil de utilizar, dando errores en ocasiones que son complicados de localizar.
+El programa es distinto a otros programas con lector de javascript y difícil de utilizar, dando errores en ocasiones que son complicados de localizar.
 
 
 # 4. Conclusiones 
@@ -90,6 +97,8 @@ El programa podría estar más actualizado, pero en general ha sido una buena ex
 # 5 Referencias 
 
 **Artículos y blogs ** 
+
+https://www.eluniversal.com.mx/techbit/pac-man-la-historia-del-videojuego-que-revoluciono-el-mundo
 
 https://www.hippani.com/?S=AnimatorHelp
 
@@ -102,7 +111,7 @@ https://www.hippani.com/?S=AnimatorHelp
 **Herramientas utilizadas**
 
 - Hippani Animator 5.1
-- 
+- Photoshop CS5
 
 (imagen de la licencia, copiar y pegar aquí la correcta)
 
